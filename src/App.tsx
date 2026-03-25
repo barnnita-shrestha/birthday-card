@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { Heart, Stars, Gift, Music, Camera, Sparkles, X } from 'lucide-react';
 import confetti from 'canvas-confetti';
 
+// Image path updated
 const PHOTOS = [
   { url: "/pic.jpg", caption: "Our favorite moment" },
 ];
