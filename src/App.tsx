@@ -4,7 +4,7 @@ import { Heart, Stars, Gift, Music, Camera, Sparkles, X } from 'lucide-react';
 import confetti from 'canvas-confetti';
 
 const PHOTOS = [
-  { url: "C:\Users\ASUS\Downloads\bestie's-birthday-surprise\public\pic.jpg", caption: "Our favorite moment" },
+  { url: "/public/pic.jpg", caption: "Our favorite moment" },
 ];
 
 export default function App() {
